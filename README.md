@@ -1,4 +1,4 @@
-# [awesome_twitter_CN](https://github.com/XiaomingX/awesome_twitter_cn-plus)
+# [2025年值得关注的中文twitter用户](https://github.com/XiaomingX/awesome_twitter_cn)
 
 这是一个值得关注的中文twitter用户列表，起因是我刚开始使用twitter的时候，不知道关注谁。有一些很好的推特用户，也没有人关注。所以制作了这个列表。
 欢迎大家踊跃推荐自己觉得的不错的中文twitter用户，(色情、政治)内容除外，排名不分先后。
