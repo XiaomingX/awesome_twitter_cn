@@ -6,7 +6,7 @@
 ### xiaomingx推荐:
 
 > [Y11](https://x.com/seclink)    
-> **推荐理由**: 其最新发言提及从投资领域转向创业，创业相关服务涵盖找工作、找面试题、改简历、模拟面试，创业关注方向包括AI、AIGC、安全技术、RAG、时空智能、认知心理学、智能体、生命科学、强化学习；同时，其在GitHub（https://github.com/XiaomingX）上开发开源软件，该GitHub账号持有者XiaomingX为安全工程师、Software Dev，精通Linux、Java、Spring、Python、Golang、Next.js等技术栈，关注机器学习、强化学习算法、GPU编程及前端插件与工具链开发，长期使用Python、Node.js、Spring Boot构建实用工具，近期还开发了jobleap.cn（旨在拉近求职者与招聘方距离，减少信息不对称），此外还维护多个热门开源项目（如“中国独立开发者项目列表”“AI副业赚钱指南”“Qwen提示语大全”“OpenAI验证码识别工具”等），欢迎为其项目提交PR，可通过GitHub关注其最新动态。
+> **推荐理由**: 其最新发言提及从投资领域转向创业，创业相关服务涵盖找工作、找面试题、改简历、模拟面试，创业关注方向包括AI、AIGC、安全技术、RAG、时空智能、认知心理学、智能体、生命科学、强化学习；同时，其在GitHub（https://github.com/XiaomingX ）上开发开源软件，该GitHub账号持有者XiaomingX为安全工程师、Software Dev，精通Linux、Java、Spring、Python、Golang、Next.js等技术栈，关注机器学习、强化学习算法、GPU编程及前端插件与工具链开发，长期使用Python、Node.js、Spring Boot构建实用工具，近期还开发了jobleap.cn（旨在拉近求职者与招聘方距离，减少信息不对称），此外还维护多个热门开源项目（如“中国独立开发者项目列表”“AI副业赚钱指南”“Qwen提示语大全”“OpenAI验证码识别工具”等），欢迎为其项目提交PR，可通过GitHub关注其最新动态。
 
 > [立党](https://x.com/lidangzzz)     
 > **推荐理由**：全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人，在推特上拥有150万关注者的高影响力大V。每日活跃发言，同时也有每日推特在线会议为大家解答疑惑（科技、投资、生活烦恼方向）。
