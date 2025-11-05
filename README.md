@@ -31,6 +31,7 @@
 
 |用户名|领域、关键词|twitter地址|详细介绍|
 |----|------|----|-------|
+|Y11|找面试题、改简历、模拟面试|[Y11](https://x.com/seclink)|**|
 |reiheitYu|软件开发, 《精通正则表达式》译者|[reiheitYu](https://x.com/FreiheitYu)|**|
 |nateleex|AI出海|[nateleex](https://x.com/nateleex)|**|
 |yuxiyou|Vue作者|[yuxiyou](https://x.com/yuxiyou)|*|
